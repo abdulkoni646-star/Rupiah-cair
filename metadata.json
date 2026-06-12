@@ -1,0 +1,6 @@
+{
+  "name": "Rupiah Cair",
+  "description": "Aplikasi simulasi pinjaman Rupiah Cair dengan pengisian formulir, tanda tangan, pembayaran meterai, bonus registrasi, dan pencairan dana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
